@@ -8,6 +8,21 @@ $size: A4
 footer : fastcampus Frontend Dev SCHOOL, Wooyoung Choi, 2018
 -->
 
+## Introduce
+
+
+### 최우영
+- Co-founder, Developer at disceptio
+- Solution Architect, Web Developer, Instructor
+- python web crawling bootcamp(gilbut, 2018 expected)
+- Skills: Python, Golang, Julia, Node.js, Google tag manager ...
+
+#### blog: https://blog.ulgoon.com/
+#### github: https://github.com/ulgoon/
+#### email: me@ulgoon.com
+
+
+---
 ## git
 
 ---
